@@ -2,7 +2,7 @@
 </h1>
 
 💻 Systems Engineering Student  
-🚀 Full Stack Developer & Cybersecurity Enthusiast
+🚀 Aspiring Full Stack Developer & Exploring Cybersecurity 
 🎮 Gamer | 🎥 Video Editor | 🏀 Basketball lover
 
 ### 🌐 Find me at:
@@ -22,3 +22,8 @@
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+
+### 🔥 Goals:
+- Becoming a skilled Full Stack Developer
+- Building a strong career in the tech industry
+- Growing a strong personal brand in tech
