@@ -2,8 +2,9 @@
 </h1>
 
 💻 Systems Engineering Student  
-🚀 Aspiring Full Stack Developer & Exploring Cybersecurity 
+🚀 Aspiring Full Stack Developer & Exploring Cybersecurity  
 🎮 Gamer | 🎥 Video Editor | 🛠️ Computer Technician
+
 
 ### 🌐 Find me at:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/JorgeZorrilloS)
