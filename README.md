@@ -10,7 +10,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/JorgeZorrilloS)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgezorrillos10@gmail.com)](mailto:jorgezorrillos10@gmail.com)
 
-### ⚡ Currently learning: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### Currently learning: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 - Full Stack Development
 - Software Architecture
 - Cybersecurity
